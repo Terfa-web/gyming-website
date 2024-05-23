@@ -1,0 +1,14 @@
+.start__wrapper {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 3rem;
+  align-items: center;
+}
+
+.start__content p {
+  color: var(--heading-color);
+  font-size: 1.1rem;
+  line-height: 28px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
